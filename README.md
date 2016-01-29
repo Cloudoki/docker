@@ -145,4 +145,10 @@ Other commands are:
 
 Now that we have a docker environment set up, lets install some containers
 
+### [docker]
 
+`...`
+
+### [docker-compose]
+
+`...`
